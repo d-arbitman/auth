@@ -1,0 +1,6 @@
+{
+    "require": {
+        "hautelook/phpass": "1.0.0",
+        "paragonie/random_compat": "^2.0"
+    }
+}
